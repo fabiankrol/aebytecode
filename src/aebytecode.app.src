@@ -5,9 +5,7 @@
   {applications,
    [kernel,
     stdlib,
-    eblake2,
-    aeserialization,
-    getopt
+    aeserialization
    ]},
   {env,[]},
   {modules, []},

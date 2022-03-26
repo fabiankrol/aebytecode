@@ -17,7 +17,7 @@
         , swap/1
         ]).
 
--include_lib("aebytecode/include/aeb_opcodes.hrl").
+-include_lib("aeb_opcodes.hrl").
 
 
 %%====================================================================
